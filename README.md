@@ -51,7 +51,7 @@ On Archlinux:
 
 On FreeBSD:
 
-     pkg install libconfig libexecinfo lua52 python
+     pkg install jansson libconfig lua52 python
 
 On OpenBSD:
 
